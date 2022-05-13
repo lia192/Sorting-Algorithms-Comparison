@@ -1,6 +1,6 @@
 # Sorting Algorithms Comparison
 
-`
+```
 
 #On random data:
 
@@ -253,4 +253,4 @@ MergeSort: 31.66300 microseconds
 N = 10000
 QuickSort: 598770.77000 microseconds
 MergeSort: 304.61000 microseconds
-`
+```
