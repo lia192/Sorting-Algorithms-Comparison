@@ -2,7 +2,7 @@
 
 ```
 
-#On random data:
+**On random data:**
 
 For integer values : 
 N = 10
@@ -88,7 +88,7 @@ N = 10000
 QuickSort: 871089.50000 microseconds
 MergeSort: 556.57000 microseconds
 
-#Data Sorted in increasing order:
+**Data Sorted in increasing order:**
 
 For integer values : 
 N = 10
@@ -171,7 +171,7 @@ N = 10000
 QuickSort: 597338.32000 microseconds
 MergeSort: 361.15000 microseconds
 
-#Data Sorted in decreasing order:
+**Data Sorted in decreasing order:**
 
 For integer values : 
 N = 10
